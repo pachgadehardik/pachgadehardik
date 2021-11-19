@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 -  I like to solve problems by leveraging most efficient methods available out there. 
 - 💬 ask me anything, I can certainly google it for you :)
-- 🌱 exploring this new buzz, something called as Machine Learning (NLP & Vision) , I guess ? (Fun Fact - it is awesome and I love it ;) )
+- 🌱 exploring this new buzz, something called as Machine Learning (NLP & Vision) Fun Fact - it is awesome and I love it ;) 
 - 🔭 currently working as a Machine Learning Engineer, developing and deploying models for the client (yes, MLOps it is)
 - 📫 How to reach me: Look left for my socials
 - ⚡ Fun Fact - I hate coding so much that I love to do it
