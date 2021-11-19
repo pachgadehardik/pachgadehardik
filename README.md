@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun Fact - I hate coding so much that I love to do it
 - I had worked as a java full stack developer (pretty decent domain) in one of the world's leading IT company. 
 - Currently exploring and learning more in NLP and Time Series forecasting
-
-
-[![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pachgadehardik&hide=contribs,prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
