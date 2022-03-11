@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 ask me anything, I can certainly google it for you :)
 - 🌱 exploring this new buzz, something called as Machine Learning (NLP & Vision) Fun Fact - it is awesome and I love it ;) 
 - 🔭 currently working as a Machine Learning Engineer, developing and deploying models for the client (yes, MLOps it is)
-- 📫 How to reach me: Look left for my socials
-- ⚡ Fun Fact - I hate coding so much that I love to do it
-- I had worked as a java full stack developer (pretty decent domain) in one of the world's leading IT company. 
-- Currently exploring and learning more in NLP and Time Series forecasting
+- 📫 How to reach me: Have a glance at the left panel for my socials
+- ⚡ Fun Fact - We don't know the what is the range of infinite number, same with knowledge :) 
+- I have worked as a java full stack developer (pretty decent domain) in one of the world's leading IT company. 
+- Currently exploring and learning more in Machine Learning and Data Science.
